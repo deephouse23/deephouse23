@@ -2,6 +2,14 @@
 
 📍 San Ramon, CA | Sales guy learning to code
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+
 ---
 
 I spent almost a decade at [Sentry](https://sentry.io) - started as an early AE and worked my way up to leading sales. Now I'm at [Infisical](https://infisical.com) helping enterprise customers manage their secrets, certificates, and privileged access.
