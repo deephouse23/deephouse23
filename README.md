@@ -1,6 +1,6 @@
 # Hi, I'm Justin
 
-📍 San Ramon, CA | Sales guy learning to code
+📍 San Ramon, CA | Enterprise sales leader learning to build and ship software
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
