@@ -31,6 +31,7 @@ I live out in San Ramon with my wife and dog. I'm into CrossFit, cycling, retire
 - Building with and learning to create AI agents
 - Turning ideas into working apps faster than I ever thought possible
 - Figuring out how to make mahjong less intimidating
+- Openclaw personal agent, I have accidently destroyed logan 3x now. 
 
 ### Connect
 
