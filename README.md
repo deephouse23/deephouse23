@@ -16,11 +16,11 @@ I also have a weakness for retro aesthetics. If something I built looks like it 
 
 ## Building
 
-[16bitmahjong.co](https://16bitmahjong.co/) — Just launched. I built it while teaching myself Mahjong, mostly to make a game that's intimidating on the way in a little less so. Still very much a work in progress.
+[16bitmahjong.co](https://16bitmahjong.co/) Just launched. I built it while teaching myself Mahjong, mostly to make a game that's intimidating on the way in a little less so. Still very much a work in progress.
 
-[16bitweather.co](https://16bitweather.co/) — Started as a simple weather app out of a childhood obsession with meteorology and has turned into something closer to an earth and space science hub: space weather, aviation and astrophotography forecasting, earth sciences, a blog, and an education section covering most meteorological and ecological topics. It began fully retro and has drifted modern since, though the 16-bit theme is still in there if you register and select it. This is the one I've had the most fun building.
+[16bitweather.co](https://16bitweather.co/) Started as a simple weather app out of a childhood obsession with meteorology and has turned into something closer to an earth and space science hub: space weather, aviation and astrophotography forecasting, earth sciences, a blog, and an education section covering most meteorological and ecological topics. It began fully retro and has drifted modern since, though the 16-bit theme is still in there if you register and select it. This is the one I've had the most fun building.
 
-[weather-cli](https://github.com/jelrod27/weather-cli) — Same obsession, fewer pixels. Built for the terminal.
+[weather-cli](https://github.com/jelrod27/weather-cli)  Same obsession, fewer pixels. Built for the terminal.
 
 A few other things I'm hoping to publish soon.
 
