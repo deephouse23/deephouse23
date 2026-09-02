@@ -26,13 +26,11 @@ A few other things I'm hoping to publish soon.
 
 ## Exploring
 
-Personal AI agents are the current rabbit hole. I'm running Hermes through Nous Portal, no local models yet, and I haven't found a use case that goes much past cron jobs handing me text on a topic or running a scan. Most of that is redundant with subscriptions I already pay for. I like it anyway, mostly because agents have turned out to be a good excuse to get into Cloudflare, containers, and the infrastructure underneath. Mixture-of-agents is next, purely out of curiosity.
-
-After that, amateur astrophotography.
+Personal AI agents are the current rabbit hole. I'm running Hermes through Nous Portal, no local models yet, and I haven't found a good use case that goes much past cron jobs handing me text on a topic or running a scan. Most of that is redundant with subscriptions I already pay for. I like it anyway, mostly because agents have turned out to be a good excuse to get into Cloudflare, containers, and the infrastructure underneath. Mixture-of-agents is next, purely out of curiosity.
 
 ## Outside of work
 
-I'm based in the Tri-Valley, out in the far East Bay, where I've appointed myself unofficial overseer of local seismic activity. Minor earthquake swarms come through every three or four years, which is enough to keep the job interesting. When I'm not traveling for Infisical, I'm usually doing CrossFit, cycling, skiing, trying to run further than two miles, or outside doing something else.
+I'm based in the San Ramon the pinnacil of the Tri-Valley, out in the far East Bay, where I've appointed myself unofficial overseer of local seismic activity. Minor earthquake swarms come through every three or four years, which is enough to keep the job interesting. I'm usually doing CrossFit, cycling, skiing, trying to run further than two miles, or outside doing something else.
 
 ### Connect
 
