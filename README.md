@@ -34,11 +34,6 @@ After that, amateur astrophotography.
 
 I'm based in the Tri-Valley, out in the far East Bay, where I've appointed myself unofficial overseer of local seismic activity. Minor earthquake swarms come through every three or four years, which is enough to keep the job interesting. When I'm not traveling for Infisical, I'm usually doing CrossFit, cycling, skiing, trying to run further than two miles, or outside doing something else.
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/justinelrod1/) · [X](https://x.com/Justin_Elrod)
-
-
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/justinelrod1/)
