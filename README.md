@@ -6,28 +6,38 @@ Hello
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+## About
 
-## About Me
+I've worked in software for a long time, and for the last decade mostly on the selling side of developer tooling and infrastructure security. Seven of those years were at Sentry, where I started as an IC, spent two and a half years leading the sales org, and three running the commercial division. I'm now at Infisical, working with enterprises on secrets, certificates, and privileged access.
 
-I've been in software and technology for a long time, with the last 10 years spent primarily selling developer tooling and infrastructure security products. I was at Sentry for over 7 years. Started as an IC, led the sales org for two years, then ran the commercial division for three. These days I'm at Infisical, helping enterprises secure and manage their secrets, certificates, and privileged access.
+After enough years selling to engineering leaders and teams across a lot of different stacks, I wanted to learn the craft itself, not just how to talk about it. AI is what made that realistic. Over the past year, with Claude Code and Cursor doing much of the heavy lifting, I've gone further into software, hosting, and networking than my background gives me any right to. What struck me is how short the distance has gotten between having an idea and shipping it. That collapse is the most interesting thing happening in technology right now.
 
-After that long selling to developers, I got genuinely curious about what was happening under the hood. Over the past year, fueled by tools like Claude Code and Cursor, I went deep, at least relative to my background in sales, into software, hosting, networking, and a few other areas. My honest take: the gap between "I have an idea" and "I shipped the thing" has mostly collapsed, and I find that wildly fun. I also have a weakness for retro aesthetics. If it looks like it shipped on a 16-bit console, I probably built it.
+I also have a weakness for retro aesthetics. If something I built looks like it shipped on a 16-bit console, that was on purpose.
 
-### What I'm Building
+## Building
 
-- 🀄 **[16bitmahjong.co](https://16bitmahjong.co/):** Just launched. An interactive platform I built while teaching myself Mahjong, meant to make a genuinely intimidating game a little less so. Still very much a WIP.
-- 🌦️ **[16bitweather.co](https://16bitweather.co/):** A weather app born out of my childhood meteorological obsession. It started out retro and has since grown more modern. The 16-bit look is still there if you register and pick that theme. Honestly, it's been a blast to build.
-- ⌨️ **[weather-cli](https://github.com/jelrod27/weather-cli):** Same obsession, fewer pixels. Built for the terminal.
-- 🚧 **More on the way:** a few other projects I'm hoping to publish soon.
+[16bitmahjong.co](https://16bitmahjong.co/) — Just launched. I built it while teaching myself Mahjong, mostly to make a game that's intimidating on the way in a little less so. Still very much a work in progress.
 
-### What I'm Exploring
+[16bitweather.co](https://16bitweather.co/) — Started as a simple weather app out of a childhood obsession with meteorology and has turned into something closer to an earth and space science hub: space weather, aviation and astrophotography forecasting, earth sciences, a blog, and an education section covering most meteorological and ecological topics. It began fully retro and has drifted modern since, though the 16-bit theme is still in there if you register and select it. This is the one I've had the most fun building.
 
-- Personal AI agents. Hermes is the one I keep coming back to, mostly for daily briefs and wiki builds. The output keeps getting more usable as I get smarter about how I structure the agents. MoA (mixture-of-agents) is next on my list, purely for fun.
-- Amateur astrophotography, aka my next technical rabbit hole.
+[weather-cli](https://github.com/jelrod27/weather-cli) — Same obsession, fewer pixels. Built for the terminal.
 
-### Outside of Work
+A few other things I'm hoping to publish soon.
 
-I'm based in San Ramon, where I jokingly consider myself the unofficial overseer of local meteorological and seismic activity. When I'm not traveling or pitching Infisical, you'll usually find me doing CrossFit, cycling, skiing, trying to run more than 2 miles, or sweating through hot yoga. I've got plenty of other interests in the mix, but these are what take up most of my time these days.
+## Exploring
+
+Personal AI agents are the current rabbit hole. I'm running Hermes through Nous Portal, no local models yet, and I haven't found a use case that goes much past cron jobs handing me text on a topic or running a scan. Most of that is redundant with subscriptions I already pay for. I like it anyway, mostly because agents have turned out to be a good excuse to get into Cloudflare, containers, and the infrastructure underneath. Mixture-of-agents is next, purely out of curiosity.
+
+After that, amateur astrophotography.
+
+## Outside of work
+
+I'm based in the Tri-Valley, out in the far East Bay, where I've appointed myself unofficial overseer of local seismic activity. Minor earthquake swarms come through every three or four years, which is enough to keep the job interesting. When I'm not traveling for Infisical, I'm usually doing CrossFit, cycling, skiing, trying to run further than two miles, or outside doing something else.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/justinelrod1/) · [X](https://x.com/Justin_Elrod)
+
 
 ### Connect
 
